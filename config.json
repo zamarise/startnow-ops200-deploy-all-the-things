@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://thawing-sands-84132.herokuapp.com/",
+  "change_calculator": "https://zjmreact100changecalculator.herokuapp.com/",
+  "mortgage_calculator": "https://zjmreact100mortgagecalculator.herokuapp.com/",
+  "top_spots": "https://zjmreact100sandiegotopspots.herokuapp.com/",
+  "vstda": "https://zjm-startnow-react100-vstda.herokuapp.com/"
 }
